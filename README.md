@@ -4,7 +4,9 @@ __Mission and objectives__
 
 (the organization) is committed to (their missions/goals).
 To achieve this goal, (the organization) aims to: 
+
 ● Objective 1
+
 ● Objective 2
 
 __Context__
