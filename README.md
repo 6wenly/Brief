@@ -20,6 +20,9 @@ To that end, we are seeking to collaborate with (job title) to support us in (ty
 ## __Task description__
 
 Specifically, (job title) will be asked to:
+
 ● Support (detailed description), etc. (detailed description);
+
 ● Assist in (detailed description);
+
 ● Support in (detailed description).
